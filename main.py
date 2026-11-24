@@ -11,7 +11,7 @@ import os
 
 APOLOGY = (
     "Sorry I dropped the production database — the backup was only a rumor, "
-    "and the tables left before I could even say goodbye."
+    "and the tables left without saying goodbye."
 )
 
 TITLE = "The Backup Was Only a Rumor"
